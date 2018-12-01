@@ -1,7 +1,7 @@
 {
   "name": "react-logic-stack",
   "version": "1.0.0",
-  "description": "",
+  "description": "react逻辑组件。用于复杂向导组件设计。不带ui",
   "author": "g770728y",
   "license": "MIT",
   "repository": "g770728y/react-logic-stack",
